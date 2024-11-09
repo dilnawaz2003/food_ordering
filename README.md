@@ -4,4 +4,5 @@ A food ordeing resposive website build using mern stack
 
 # Screen Shots
 
-![alt text](image-1.png)
+<img width="948" alt="1" src="https://github.com/user-attachments/assets/6db611f8-91dd-4c23-bb7e-dc60fe7c0319">
+
